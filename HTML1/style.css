@@ -1,0 +1,25 @@
+
+#First-Div{
+    
+    border: 1px solid black;
+    padding: 20px;
+}
+
+
+h2{
+    
+    font-family: 'Inter';
+}
+
+p{
+    
+    font-family: 'Inter';
+    text-align: justify;
+}
+ol li {
+   
+    padding: 5px;
+    font-family: 'Inter';
+    
+    
+  }
